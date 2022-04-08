@@ -21,7 +21,7 @@ def main():
     encoded_trains = load_model()
 
     # Start of the project
-    st.title("Attendance_Project")
+    st.title("Real time Face-Recognition Project")
     st.sidebar.title("What to do")
     app_mode = st.sidebar.selectbox("Choose the app mode",
     ["Demo app", "Attend from uploading image", "Attend using camera (photo mode)", "Training"])
