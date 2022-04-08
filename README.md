@@ -1,4 +1,4 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/abdassalamahmad/attendance_system/main/streamlit_test_app_online.py)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/hadzi123/face-recognition-system-in-real-time/streamlit_test_app_online.py)
 # Attendance-System Using Face-Recognition in Real-Time
 Attendance System using Face Recognition (HOG) in Real-Time
 
