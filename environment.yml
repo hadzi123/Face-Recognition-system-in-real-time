@@ -8,3 +8,4 @@
      - face_recognition
      - pip:
        - opencv-python
+       - click==8
