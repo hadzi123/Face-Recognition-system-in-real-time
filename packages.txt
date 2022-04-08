@@ -1,4 +1,4 @@
 cmake
 libgtk-3-dev
 freeglut3-dev
-click==7.1.2
+click=7.1.2
